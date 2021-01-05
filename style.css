@@ -11,11 +11,12 @@ h2{
     
 }
 p{
-    color:burlywood;
+    color:rgb(152, 222, 135);
+  
     
 }
 .orange-highlight{
-    color: rgb(255, 238, 0);
+    color: rgb(0, 174, 255);
 }
 .half-width{
     width: 40%;
