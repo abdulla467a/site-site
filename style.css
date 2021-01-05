@@ -42,7 +42,7 @@ section{
  background-image: linear-gradient(lightSalmon,tomato);
     padding: 10px 20px;
     border-radius: 5px;
-    color: rgb(0, 255, 0);
+    color: rgba(0, 132, 255, 0.986);
     font-weight: 700;
 }
 .dream-area{
@@ -61,7 +61,7 @@ section{
 .experience-area{
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
+    text-align: center;
 }
 #full-stack{
     border-left: 7px solid;
