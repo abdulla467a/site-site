@@ -41,7 +41,7 @@ section{
  background-image: linear-gradient(lightSalmon,tomato);
     padding: 10px 20px;
     border-radius: 5px;
-    color: red;
+    color: rgb(0, 255, 0);
     font-weight: 700;
 }
 .dream-area{
@@ -51,7 +51,7 @@ section{
 
 }
 .single-experience{
-    box-shadow: 10px 10px 40px rgba(128, 168, 34, 0.945);
+    box-shadow: 10px 10px 40px rgba(158, 144, 22, 0.945);
     border-radius: 5px;
     height: 70%;
     background-color: white;
